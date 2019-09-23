@@ -5,7 +5,7 @@ public class ForLoopStudy {
 	
 	public static void main(String[] args) {
 		
-		//Solution 1
+		//Solution
 		System.out.println("Before loop");
 		
 		for (int i = 0; i < 11; i=i+1) 
